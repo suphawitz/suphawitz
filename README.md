@@ -15,8 +15,8 @@
 - **Database:** MySQL, PostgreSQL
 
 ## โปรเจกต์ที่โดดเด่น (Featured Projects)
-- **Mindbrand (https://mindbrain.vercel.app/):** เว็บไซต์ในการช่วยเพิ่มโฟกัสเวลาทำงาน พัฒนาโดย Next.js, TypeScript, TailwindCSS
+- **Mindbrand ([Live Project](https://mindbrain.vercel.app/)):** เว็บไซต์ในการช่วยเพิ่มโฟกัสเวลาทำงาน พัฒนาโดย Next.js, TypeScript, TailwindCSS
 
 ## ช่องทางการติดต่อ (Contact Information)
 - **Email:** suphawit.aum.si@gmail.com
-- **Portfolio Website:** ssxphawit.vercel.app
+- **Portfolio Website:** ([ssxphawit.vercel.app](https://ssxphawit.vercel.app/))
