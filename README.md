@@ -1,16 +1,22 @@
-## Hi there 👋
+# สวัสดีครับ Suphawit Jaikeawma
 
-<!--
-**suphawitz/suphawitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+นักศึกษาชั้นปีที่ 4 สาขานวัตกรรมธุรกิจดิจิทัล คณะบริหารธุรกิจ มหาวิทยาลัยแม่โจ้ กำลังมองหาตำแหน่ง Frontend Developer Intern
 
-Here are some ideas to get you started:
+## จุดมุ่งหมายและการเรียนรู้ปัจจุบัน (Current Focus)
+- เรียนรู้ React, TypeScript, Node.js และการพัฒนา Web Application
+- ฝึกฝนการทำงานร่วมกันผ่าน Git/GitHub ในระบบทีม
+- พัฒนาสกิลด้าน Cyber Security และด้านความปลอดภัยต่างๆ
+- ฝึกทักษะการใช้ AI เข้ามาช่วยในการพัฒนาโปรเจคอย่างมีประสิทธิภาพ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##ทักษะและความเชี่ยวชาญ (Technical Skills)
+- **Languages:** JavaScript, PHP, HTML/CSS
+- **Framworkr & Libraries:** Next.js, Tailwind CSS, Node.js
+- **Tools & PLatforms:** Git, GitHub, VS Code, Figma, Docker, Postman
+- **Database:** MySQL, PostgreSQL
+
+## โปรเจกต์ที่โดดเด่น (Featured Projects)
+- **Mindbrand (https://mindbrain.vercel.app/):** เว็บไซต์ในการช่วยเพิ่มโฟกัสเวลาทำงาน พัฒนาโดย Next.js, TypeScript, TailwindCSS
+
+## ช่องทางการติดต่อ (Contact Information)
+- **Email:** suphawit.aum.si@gmail.com
+- **Portfolio Website:** ssxphawit.vercel.app
