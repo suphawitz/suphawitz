@@ -8,10 +8,10 @@
 - พัฒนาสกิลด้าน Cyber Security และด้านความปลอดภัยต่างๆ
 - ฝึกทักษะการใช้ AI เข้ามาช่วยในการพัฒนาโปรเจคอย่างมีประสิทธิภาพ
 
-##ทักษะและความเชี่ยวชาญ (Technical Skills)
+## ทักษะและความเชี่ยวชาญ (Technical Skills)
 - **Languages:** JavaScript, PHP, HTML/CSS
-- **Framworkr & Libraries:** Next.js, Tailwind CSS, Node.js
-- **Tools & PLatforms:** Git, GitHub, VS Code, Figma, Docker, Postman
+- **Framwork & Libraries:** Next.js, Tailwind CSS, Node.js
+- **Tools & Platforms:** Git, GitHub, VS Code, Figma, Docker, Postman
 - **Database:** MySQL, PostgreSQL
 
 ## โปรเจกต์ที่โดดเด่น (Featured Projects)
