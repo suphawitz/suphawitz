@@ -5,12 +5,12 @@ I'm a developer and student who enjoys building modern web applications, experim
 I’m especially interested in **Front-end Development, UI/UX, and Software Tester**.
 
 ## 👨‍💻 About Me
-- 🎓 Student at Maejo University
-- 💻 Interested in Frontend & Full-Stack Development
-- 🎨 Love creating clean, minimal, and user-friendly interfaces
-- 🌱 Currently improving my skills in **Next.js, TypeScript, and Project Manager**
-- 🚀 Building personal projects and experimenting with new technologies
-- 🎯 My goal is to keep learning, building, and creating products that are genuinely useful
+- Student at Maejo University
+- Interested in Frontend & Full-Stack Development
+- Love creating clean, minimal, and user-friendly interfaces
+- Currently improving my skills in **Next.js, TypeScript, and Project Manager**
+- Building personal projects and experimenting with new technologies
+-   My goal is to keep learning, building, and creating products that are genuinely useful
 
 ---
 
@@ -75,8 +75,8 @@ FinTech
 
 ## 🤝 Connect With Me
 
-* 🌐 Portfolio: [ssxphawit.vercel.app](https://ssxphawit.vercel.app/)
-* 📸 Instagram: [@ssxphawit.si](https://instagram.com/ssxphawit.si)
+* Portfolio: [ssxphawit.vercel.app](https://ssxphawit.vercel.app/)
+* Instagram: [@ssxphawit.si](https://instagram.com/ssxphawit.si)
 
 ---
 
